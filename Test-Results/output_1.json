@@ -1,0 +1,28 @@
+{
+    "startTime": "2020-04-12T15:58:52.598Z",
+    "endTime": "2020-04-12T15:59:04.065Z",
+    "userAgents": [
+      "Chrome 80.0.3987.163 / macOS 10.15.3"
+    ],
+    "passed": 1,
+    "total": 1,
+    "skipped": 0,
+    "fixtures": [
+      {
+        "name": "Getting started with TestCafe",
+        "path": "/Users/dmani/Documents/Workspace/TESTCAFE-LEARNING/tests/twitter.test.js",
+        "meta": {},
+        "tests": [
+          {
+            "name": "Sign-up with new account",
+            "meta": {},
+            "errs": [],
+            "durationMs": 11451,
+            "screenshotPath": null,
+            "skipped": false
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  }

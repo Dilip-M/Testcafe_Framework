@@ -1,0 +1,30 @@
+{
+    "startTime": "2020-04-12T16:08:32.823Z",
+    "endTime": "2020-04-12T16:10:17.085Z",
+    "userAgents": [
+        "Chrome 80.0.3987.163 / macOS 10.15.3",
+        "Safari 13.0.5 / macOS 10.15.3",
+        "Firefox 63.0 / macOS 10.15"
+    ],
+    "passed": 1,
+    "total": 1,
+    "skipped": 0,
+    "fixtures": [
+      {
+        "name": "Getting started with TestCafe",
+        "path": "/Users/dmani/Documents/Workspace/TESTCAFE-LEARNING/tests/twitter.test.js",
+        "meta": {},
+        "tests": [
+          {
+            "name": "Tweet with Image and message",
+            "meta": {},
+            "errs": [],
+            "durationMs": 104204,
+            "screenshotPath": null,
+            "skipped": false
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  }

@@ -1,0 +1,22 @@
+{
+  "name": "testcafe-learning",
+  "version": "1.0.0",
+  "description": "Web automation using Testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests --reporter json",
+    "test:multiple": "testcafe chrome,safari,firefox ./tests -s takeOnFail=true --reporter json"
+  },
+  "keywords": [
+    "Testcafe",
+    "web",
+    "automation",
+    "testing"
+  ],
+  "author": "Dilip Mani",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.4",
+    "testcafe-reporter-json": "^2.2.0"
+  }
+}
