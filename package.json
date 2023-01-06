@@ -16,7 +16,7 @@
   "author": "Dilip Mani",
   "license": "ISC",
   "dependencies": {
-    "testcafe": "^1.8.4",
+    "testcafe": "^1.20.1",
     "testcafe-reporter-json": "^2.2.0"
   }
 }
